@@ -17,6 +17,12 @@ const data = [
     {
         image: 'r4.jpg',
     },
+    {
+        image: 'r5.jpg',
+    },
+    {
+        image: 'r6.jpg',
+    },
 ];
 
 export default function Testimonials() {
@@ -50,7 +56,7 @@ export default function Testimonials() {
     };
 
     return (
-        <div className='flex flex-col justify-center items-center p-10 md:w-full space-y-6 m-auto'>
+        <div className='flex flex-col justify-center items-center p-10 md:w-full space-y-6 m-auto '>
             <h1 className="text-2xl font-custom underline text-center  transition-transform duration-300 hover:scale-150 text-center ">Testimonials</h1>
             <div className="w-3/4 m-auto ">
                 <Slider {...sliderSettings}>
