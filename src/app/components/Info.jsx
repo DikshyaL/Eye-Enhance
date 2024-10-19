@@ -22,7 +22,7 @@ export default function Info() {
                     
                 </div>
                 
-                <div className="text-center mt-4 sm:mt-0">
+                <div className="text-center mt-4 ">
                     <p>
                         <FontAwesomeIcon icon={faPhoneAlt} /> 857-221-2399
                     </p>
