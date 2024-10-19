@@ -7,7 +7,7 @@ import Location from './Location';
 import Testimonials from './Testimonials';
 import Gallery from './Gallery';
 import Appointments from './Appointments';
-import Contact from './Contact';
+
 import FAQ from './FAQ';
 import Info from './Info';
 import Footer from './Footer';
@@ -26,7 +26,6 @@ const AppRouter = () => {
                 <Route path="/testimonials" element={<Testimonials />} />
                 <Route path="/gallery" element={<Gallery />} />
                 <Route path="/appointments" element={<Appointments />} />
-                <Route path="/contact" element={<Contact />} />
                 <Route path="/faq" element={<FAQ />} />
                 <Route path="/info" element={<Info />} />
             </Routes>

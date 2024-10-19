@@ -2,7 +2,6 @@
 import Gallery from "../app/components/Gallery";
 import Location from "../app/components/Location";
 import Team from "../app/components/Team";
-import Contact from "../app/components/Contact";
 import FAQ from "../app/components/FAQ";
 import Info from "../app/components/Info";
 import Footer from "../app/components/Footer";
