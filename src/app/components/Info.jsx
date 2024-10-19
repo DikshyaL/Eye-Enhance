@@ -22,9 +22,9 @@ export default function Info() {
                     
                 </div>
                 
-                <div className="text-center mt-4 ">
+                <div className="text-center mt-4 text-black ">
                     <p>
-                        <FontAwesomeIcon icon={faPhoneAlt} /> 857-221-2399
+                        <FontAwesomeIcon icon={faPhoneAlt} className='text-purple-400' /> 857-221-2399
                     </p>
                    
                     <p>
@@ -32,7 +32,7 @@ export default function Info() {
                             href="mailto:eyeenhance1@gmail.com"
                             className="text-black"
                         >
-                            <FontAwesomeIcon icon={faEnvelope} /> eyeenhance1@gmail.com
+                            <FontAwesomeIcon icon={faEnvelope} className='text-purple-400'/> eyeenhance1@gmail.com
                         </a>
                     </p>
                 </div>
