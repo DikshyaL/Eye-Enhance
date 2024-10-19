@@ -39,7 +39,7 @@ export default function Info() {
             </div>
 
             
-            <div className="mt-4 sm:mt-0 text-center pb-8">
+            <div className="mt-8 sm:mt-0 text-center pb-8">
                 <p>&copy; 2024 Eye Enhance Threading. All rights reserved.</p>
             </div>
         </div>
