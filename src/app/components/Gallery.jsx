@@ -5,7 +5,7 @@ export default function Gallery() {
           <h1 className='text-2xl font-custom underline text-center transition-transform duration-300 hover:scale-150 '>
               Gallery
           </h1>
-          <div className='grid grid-cols-1 md:grid-cols-3 sm:grid-cols-2 w-full  gap-4 pr-10 pl-10 pb-10'>
+          <div className='grid grid-cols-1 md:grid-cols-3 sm:grid-cols-2 w-full  gap-4 pb-10'>
               {data.map((item, index) => (
                   <div key={index} className='p-2 relative z-1'>
                       <img 
