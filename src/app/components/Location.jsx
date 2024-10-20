@@ -7,7 +7,7 @@ export default function Location(){
               <div className='p-6 rounded-2xl bg-fuchsia-100'>
                 <h2 className='text-xl font-custom mt-4'>Location</h2>
                 <p className='text-md font-custom mt-2'>1581 Commonwealth</p>
-                <p className='text-md font-custom'>Ave, Brighton, MA 02478</p>
+                <p className='text-md font-custom'>Ave, Brighton, MA 02135</p>
                 <p className='text-md font-custom'>United States</p>
               </div>
                 
