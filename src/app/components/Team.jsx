@@ -4,7 +4,7 @@ export default function Team() {
         <div className='flex flex-col justify-center items-center space-y-6 md:w-1/2'>
           <h1 className="text-2xl font-bold underline transition-transform duration-300 hover:scale-150 font-custom text-center mb-4">Meet The Owner</h1>
           <div className='flex justify-center items-center'>
-          <img src={"/owner.png"} alt='owner pic' className='pb-6 w-96'/>
+          <img src={"/owner.jpg"} alt='owner pic' className='pb-6 w-96'/>
           </div>
           
           <h1 className='text-2xl font-custom text-center '>Sangita Timilsina </h1>
