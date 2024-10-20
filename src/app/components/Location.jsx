@@ -15,8 +15,8 @@ export default function Location(){
             <div className='md:p-10 bg-fuchsia-200 rounded-2xl p-4 '>
               <div className='p-6 rounded-2xl bg-fuchsia-100'>
                   <h2 className='text-xl font-custom mt-4'> Working Hours</h2>
-                  <p className='text-md font-custom mt-2'>Weekdays: 10:00 AM - 8:00 PM</p> 
-                  <p className='text-md font-custom'>Weekends: based on appoinments</p>  
+                  <p className='text-md font-custom mt-2'>Weekdays: 10:00 AM - 7:00 PM</p> 
+                  <p className='text-md font-custom'>Weekends: 10:00 AM - 6:00 PM</p>  
               </div>
             </div>
         </div>
