@@ -22,11 +22,15 @@ export default function Gallery() {
 
 const data = [
   { image: '/g7.jpg' },
-  { image: '/g2.jpg' },
   { image: '/g3.jpg' },
   { image: '/g4.jpg' },
   { image: '/g5.jpg' },
   { image: '/g6.jpg' },
+  { image: '/g10.jpg' },
+  { image: '/g8.jpg' },
+  { image: '/g9.jpg' },
+  { image: '/g2.jpg' },
+  { image: '/g11.jpg' },
   { image: '/g1.jpg' },
  
 ];
