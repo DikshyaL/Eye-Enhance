@@ -5,7 +5,7 @@ export default function Home() {
         <div className='p-8 w-full flex flex-row  items-center justify-center'>
             <div className=' sm:ml-20 md:ml-40  ml-4 justify-center item-center'>
                 <h1 className=" text-6xl text-black font-custom mt-4 text-center">
-                    EYE Enhance Threading
+                    Eyebrows Threading
                 </h1>
                 <h3 className='text-xl font-custom text-center'>Where Perfect Brows Begin</h3>
                 
