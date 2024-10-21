@@ -28,11 +28,11 @@ export default function Services() {
     { title: "Lash Lift", description: "Transform your lashes with our lash lift service for a beautiful curl and lift. This treatment enhances your natural lashes, making them appear fuller and more defined.", Price: "$75" },
     { title: "Lash Lift and lower Lash Tint", description: "Transform your lashes with our lash lift service for a beautiful curl and lift. This treatment enhances your natural lashes, making them appear fuller and more defined.", Price: "$95" }, 
     { title: "Forehead", description: "Smooth out your forehead with our threading service. Our expert technique removes unwanted baby hairs for a polished appearance without constant upkeep.", Price: "$10" },
-    { title: "SideBurns", description: "Revamp your look with our sideburns threading service! We skillfully shape and clean up sideburns for a contemporary and refined appearance.", Price: "$12" },
+    { title: "SideBurns", description: "Revamp your look with our sideburns threading service! We skillfully shape and clean up sideburns for a contemporary and refined appearance.", Price: "$13" },
     { title: "Upper Lip", description: "Gently remove unwanted hair from your upper lip with our precise threading service, leaving it smooth and well-defined for a more refined look.", Price: "$10" },
     { title: "Full Face", description: "Experience a flawless look with our full face threading service. This thorough treatment removes unwanted hair for a smooth, radiant complexion.", Price: "$45" },
     { title: "Chin", description: "Say goodbye to stubborn chin hairs with our threading service. We ensure your chin looks smooth and well-groomed, boosting your confidence.", Price: "$10" },
-    { title: "Neck", description: "Achieve a clean and polished look with our neck threading service. We remove unwanted hair for a well-groomed appearance that makes you feel fresh.", Price: "$12" },
+    { title: "Neck", description: "Achieve a clean and polished look with our neck threading service. We remove unwanted hair for a well-groomed appearance that makes you feel fresh.", Price: "$10" },
   ];
   
 

@@ -26,7 +26,6 @@ const data = [
   { image: '/g4.jpg' },
   { image: '/g6.jpg' },
   { image: '/g9.jpg' },
-  
   { image: '/g2.jpg' },
   { image: '/g5.jpg' },
   { image: '/g8.jpg' },
