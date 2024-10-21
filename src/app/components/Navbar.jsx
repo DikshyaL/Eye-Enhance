@@ -27,7 +27,7 @@ export default function Navbar(){
       </div>
 
 
-      <div className="hidden justify-between md:flex space-x-4 p-4 w-4/6 text-lg">
+      <div className="hidden justify-between lg:flex space-x-4 p-4 w-4/6 text-lg">
         {['Home', 'Services', 'Location', 'Testimonials', 'Gallery', 'Team', 'FAQ',].map((item) => (
           <a key={item} href={`#${item.toLowerCase()}`} className='transition-transform duration-300 hover:scale-150'>
             {item}
@@ -36,7 +36,7 @@ export default function Navbar(){
         <button onClick={goToBookingPage} className="bg-fuchsia-200 text-black font-custom p-2 rounded-xl">Book Now</button>
       </div>
 
-      <div className="md:hidden">
+      <div className="lg:hidden">
         <button onClick={toggleNavbar} className="text-black text-2xl">
           <FontAwesomeIcon icon={isOpen ? faTimes : faBars} />
         </button>
