@@ -1,24 +1,19 @@
 export default function Home() {
   return (
     <div>
-      <div className="p-4 w-full flex flex-col md:flex-row items-center justify-between">
-        {/* Text Section for the Salon Name and Slogan */}
-        <div className="text-center md:text-left sm:ml-6 md:ml-40 mt-4">
-          <h1 className="text-3xl md:text-4xl text-black font-custom font-bold">
+      <div className='p-8 w-full flex flex-col md:flex-row items-center justify-center'>
+        <div className='sm:ml-20 md:ml-40 ml-4 justify-center item-center'>
+          <h1 className="text-[8vw] sm:text-5xl md:text-6xl text-black font-custom mt-4 text-center">
             Eye Enhance Threading
           </h1>
-          <h3 className="text-md md:text-lg text-gray-700 mt-2">
+          <h3 className='text-[5vw] sm:text-xl font-custom text-center'>
             Where Perfect Brows Begin
           </h3>
         </div>
-
-        {/* Logo Section */}
-        <div className="md:flex md:w-1/3 p-4 mt-4 md:mt-0">
-          <img src={"/logo.jpg"} alt="Salon Logo" className="w-24 md:w-48 rounded-full mx-auto" />
+        <div className="hidden md:flex md:w-1/3 flex p-10">
+          <img src={"/logo.jpg"} alt="React Logo" className="w-48 rounded-full" />
         </div>
       </div>
-
-      {/* Additional content or sections here */}
     </div>
   );
 }
