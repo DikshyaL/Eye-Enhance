@@ -21,7 +21,7 @@ export default function Gallery() {
 };
 
 const data = [
- { image: '/g20.jpg' },
+ 
   { image: '/g7.jpg' },
   { image: '/g3.jpg' },
   { image: '/g4.jpg' },
